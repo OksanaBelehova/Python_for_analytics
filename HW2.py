@@ -29,7 +29,7 @@ print(num1, '*', num2, '=', F(num1)*F(num2))
 
 # Преобразуем дроби из строк в числа
 num1_, denom1 = map(int, num1.split("/"))
-num2_, denom2 = map(int,snum2.split("/"))
+num2_, denom2 = map(int, num2.split("/"))
 
 # Сумма дробей
 sum_num = num1_ * denom2 + num2_*denom1
