@@ -38,5 +38,4 @@ def fib(n):
         yield a
         a, b = b, a + b
 
-
 print(list(fib(a)))
