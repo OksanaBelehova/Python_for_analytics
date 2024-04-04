@@ -1,0 +1,140 @@
+{
+  "parent": "Python_for_analytics",
+  "name": "Seminar8_and_HW",
+  "type": "dir",
+  "size": 18134,
+  "child": [
+    {
+      "parent": "Seminar8_and_HW",
+      "name": "HW8",
+      "type": "dir",
+      "size": 7986,
+      "child": [
+        {
+          "parent": "HW8",
+          "name": "HW8.py",
+          "size": 3143,
+          "type": "file"
+        },
+        {
+          "parent": "HW8",
+          "name": "__pycache__",
+          "type": "dir",
+          "size": 4843,
+          "child": [
+            {
+              "parent": "__pycache__",
+              "name": "HW8.cpython-311.pyc",
+              "size": 4843,
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "Seminar8_and_HW",
+      "name": "HW_package.py",
+      "size": 1461,
+      "type": "file"
+    },
+    {
+      "parent": "Seminar8_and_HW",
+      "name": "Seminar8",
+      "type": "dir",
+      "size": 8687,
+      "child": [
+        {
+          "parent": "Seminar8",
+          "name": "new_users.csv",
+          "size": 173,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "new_users.json",
+          "size": 396,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "new_users.pickle",
+          "size": 183,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "results.json",
+          "size": 35,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "results.pickle",
+          "size": 32,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task1.py",
+          "size": 917,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task2.py",
+          "size": 1681,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task3.py",
+          "size": 803,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task4.py",
+          "size": 1635,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task5.py",
+          "size": 678,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task6.py",
+          "size": 1026,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "task7.py",
+          "size": 797,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "users.csv",
+          "size": 61,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "users.json",
+          "size": 166,
+          "type": "file"
+        },
+        {
+          "parent": "Seminar8",
+          "name": "users.pickle",
+          "size": 104,
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}
